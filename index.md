@@ -14,7 +14,7 @@ sections:
       key_highlights:
         - title: School Facebook
           description: Greg's website!
-          url: https://www.facebook.com/GreendaleSec/
+          url: https://www.notgreg.space
         - title: School Instagram
           description: Find us on social media!
           url: https://www.instagram.com/greendalesecondaryschool/
